@@ -21,7 +21,7 @@
 					<h3 align="left">(haoruyan1234@gmail.com)<h3>
 					<p align="left"> University of Chinese Academy of Sciences;<p> 
 					<p align="left"> Insititue of Botany, Chinese Academy of Sciences <p> 
-					<p align="left"> Research Interest: BEF relationships, Functional diversity, Climate change<p> 
+					<p align="left"> Research Interest: BEF relationships, Functional diversity, Climate change <p> 
 					<p > <a href="https://www.researchgate.net/profile/Haoru-Yan">[Research Gate]</a><p> 
 				</div>
 			</header>
