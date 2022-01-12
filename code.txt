@@ -16,21 +16,16 @@
 		<!-- Header -->
 			<header id="header">
 				<div class="inner">
-					<a href="#" class="image avatar"><img src="images/avatar.jpg" alt="" /></a>
-					<h1><strong>Haoru Yan</strong><br />
-					haoruyan1234@gmail.com<br />
-                                                                                <br />
-                                                                                University of Chinese<br />
-                                                                                Academy of Sciences;<br />
-                                                                                <br />
-                                                                                Insititue of Botany, Chinese <br />
-                                                                                Academy of Sciences<br />
-                                                                                <br />
-                                                                                Research Interest:
-					crafted by <a href="http://html5up.net">HTML5 UP</a>.</h1>
+					<a href="#" class="image avatar"><img src="images/avatar.jpg" align="left" /></a>
+					<h1 align="left"><strong>Shichao Jin</strong> </h1>
+					<h3 align="left">(jschaon@gmail.com)<h3>
+					<p align="left"> University of Chinese Academy of Sciences;<p> 
+					<p align="left"> Insititue of Botany, Chinese Academy of Sciences <p> 
+					<p align="left"> Research Interest: Deep learning; Remote sensing; Phenotyping; Modeling<p> 
+					<p > <a href="https://www.researchgate.net/profile/Haoru-Yan">[Research Gate]</a><p> 
 				</div>
 			</header>
-
+			
 		<!-- Main -->
 			<div id="main">
 
