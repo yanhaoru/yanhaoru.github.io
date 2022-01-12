@@ -17,11 +17,11 @@
 			<header id="header">
 				<div class="inner">
 					<a href="#" class="image avatar"><img src="images/avatar.jpg" align="left" /></a>
-					<h1 align="left"><strong>Shichao Jin</strong> </h1>
-					<h3 align="left">(jschaon@gmail.com)<h3>
+					<h1 align="left"><strong>Haoru Yan</strong> </h1>
+					<h3 align="left">(haoruyan1234@gmail.com)<h3>
 					<p align="left"> University of Chinese Academy of Sciences;<p> 
 					<p align="left"> Insititue of Botany, Chinese Academy of Sciences <p> 
-					<p align="left"> Research Interest: Deep learning; Remote sensing; Phenotyping; Modeling<p> 
+					<p align="left"> Research Interest: BEF relationships, Functional diversity, Climate change<p> 
 					<p > <a href="https://www.researchgate.net/profile/Haoru-Yan">[Research Gate]</a><p> 
 				</div>
 			</header>
